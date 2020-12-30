@@ -13,8 +13,8 @@
 		$apps[$x]['description']['de-de'] = "";
 		$apps[$x]['description']['de-ch'] = "";
 		$apps[$x]['description']['de-at'] = "";
-		$apps[$x]['description']['fr-fr'] = "";
-		$apps[$x]['description']['fr-ca'] = "";
+		$apps[$x]['description']['fr-fr'] = "Possibilité d'importer des extensions et des appareils à partir d'un fichier CSV";
+		$apps[$x]['description']['fr-ca'] = "Possibilité d'importer des postes et des équipments à partir d'un fichier CSV"; //fr-ca translation
 		$apps[$x]['description']['fr-ch'] = "";
 		$apps[$x]['description']['pt-pt'] = "";
 		$apps[$x]['description']['pt-br'] = "";
