@@ -13,8 +13,8 @@
 		$apps[$x]['description']['de-de'] = "";
 		$apps[$x]['description']['de-ch'] = "";
 		$apps[$x]['description']['de-at'] = "";
-		$apps[$x]['description']['fr-fr'] = "";
-		$apps[$x]['description']['fr-ca'] = "";
+		$apps[$x]['description']['fr-fr'] = "Liste des extensions actives.";
+		$apps[$x]['description']['fr-ca'] = "Liste des postes actives."; //fr-ca translation
 		$apps[$x]['description']['fr-ch'] = "";
 		$apps[$x]['description']['pt-pt'] = "";
 		$apps[$x]['description']['pt-br'] = "";
